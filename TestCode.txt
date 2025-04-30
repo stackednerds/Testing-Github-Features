@@ -2,3 +2,4 @@ Line 1
 Line 2 autoassign
 Line 3 branch protect rule
 line 4
+added coderabbit
